@@ -6,5 +6,11 @@ RENCANA BELAJAR TOOLS
 - SQL
   ^ Create
   ^ Alter
+  ^ Select
+  ^ Insert
+  ^ Update
+  ^ Delete
 - No SQL
+- Linux
+- Python
 
