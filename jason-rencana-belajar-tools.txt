@@ -4,5 +4,7 @@ RENCANA BELAJAR TOOLS
   * Fork
 - Looker studio
 - SQL
+  ^ Select
 - No SQL
 - Linux
+- Python
