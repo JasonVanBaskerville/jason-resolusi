@@ -5,6 +5,9 @@ RENCANA BELAJAR TOOLS
 - Looker studio
 - SQL
   ^ Select
+  ^ Insert
+  ^ Update
+  ^ Delete
 - No SQL
 - Linux
 - Python
