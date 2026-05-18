@@ -4,6 +4,8 @@ RENCANA BELAJAR TOOLS
   * Fork
 - Looker studio
 - SQL
+  ^ Create
+  ^ Alter
   ^ Select
   ^ Insert
   ^ Update
@@ -11,3 +13,4 @@ RENCANA BELAJAR TOOLS
 - No SQL
 - Linux
 - Python
+
