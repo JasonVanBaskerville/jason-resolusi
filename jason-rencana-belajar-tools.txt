@@ -12,5 +12,3 @@ RENCANA BELAJAR TOOLS
   ^ Delete
 - No SQL
 - Linux
-- Python
-
