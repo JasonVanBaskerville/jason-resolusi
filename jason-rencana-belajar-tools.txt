@@ -2,6 +2,8 @@ RENCANA BELAJAR TOOLS
 - GIT & GITHUB
   * Branch
   * Fork
+  * Merge
+  * Merge Conflict
 - Looker studio
 - SQL
   ^ Create
